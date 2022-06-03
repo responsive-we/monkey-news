@@ -1,0 +1,8 @@
+::-webkit-scrollbar:horizontal {
+    display: none !important;
+  }
+
+scrollbar{
+    overflow-x: hidden !important;
+    margin: 40px !important;
+}
