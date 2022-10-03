@@ -19,7 +19,7 @@ const App=()=>{
           <LoadingBar
           height={3}
           loaderSpeed={75}
-            color='#f11946'
+            color='#f11946' 
             progress={progress}
           />
           <NavBar />
